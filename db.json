@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Algoritma dan Pemrograman"
+    },
+    {
+      "id": 2,
+      "name": "Basis Data"
+    }
+  ],
+  "grades": [],
+  "krs": []
+}
