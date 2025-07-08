@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import Courses from '../views/Courses.vue'
 import Grades from '../views/Grades.vue'
-import Krs from '../views/Krs.vue'
+import Krs from '../views/KRS.vue'
 
 const routes = [
   { path: '/', component: Home },
